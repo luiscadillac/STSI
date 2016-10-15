@@ -25,4 +25,11 @@
     <string name="action_example">Example action</string>
 
     <string name="action_settings">Settings</string>
+
+    <string name="user_email"> some user </string>
+    <string name="menu_option1">Todos</string>
+    <string name="menu_option2">Malware</string>
+    <string name="menu_option3">Phishing</string>
+    <string name="menu_option4">Vulnerabilidad</string>
+    <string name="menu_option5">APT</string>
 </resources>
